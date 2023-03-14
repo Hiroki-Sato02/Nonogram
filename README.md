@@ -5,7 +5,6 @@
 担当：
 AudioPlay, NonogramFrame, StartmenuFrame 
 
-report_J1_12.pdf：授業で提出した最終レポート
 
 「java Nonogram」で実行
 
